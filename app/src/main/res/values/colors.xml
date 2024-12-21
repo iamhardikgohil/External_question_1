@@ -9,12 +9,10 @@
     </color>
 
     <color
-        name="teal_200">#FF03DAC5
-    </color>
+        name="red">#FD0000</color>
 
     <color
-        name="teal">#FF018786
-    </color>
+        name="blue">#0022FF</color>
 
 
 </resources>
